@@ -1,0 +1,5 @@
+quickda
+kneed
+openpyxl 
+kaleido
+plotly.express
