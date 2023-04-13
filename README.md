@@ -1,4 +1,4 @@
-# Proyecto1-Mineria
+# Proyecto 1 Mineria - Analisis Exploratorio
 
 ## 📡 Tecnologias Utilizadas
 
